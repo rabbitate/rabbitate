@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 </p>
 
 <div display="flex" flex-direction="row">
-  <img src="https://github-readme-stats.vercel.app/api?username=rabbitate&&show_icons=true" width="50%" height="230px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbitate&layout=compact&langs_count=10" width="40%" height="230px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rabbitate&&show_icons=true" width="55%" height="230px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbitate&layout=compact&langs_count=10" width="43%" height="230px"/>
 </div>
 
 <h3 align="left">Contact</h3>
