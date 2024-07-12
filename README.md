@@ -1,39 +1,42 @@
-### Hi there 👋
+### 안녕하세요 👋
 
-<!--
-**rabbitate/rabbitate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>💻 기술 스택</h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h2>Stack</h2>
-<p align="left">
-<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/-React-50B4F5?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React Native-50B4F5?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
 </p>
 <p>
-<img src="https://img.shields.io/badge/-React-50B4F5?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/정보처리기사-8CA1AF?style=flat-square&logo=googleDocs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLD-8CA1AF?style=flat-square&logo=googleDocs&logoColor=white"/>
+</p>
+
+<br>
+<h2>🏦 프로젝트</h2>
+<p>
+  - 🏡 <a href="https://github.com/Re-Housing">ReHousing: 빈집 관련 정부 정책 백업 서비스</a><br>
+  - 📹 <a href="https://github.com/HanaView">HanaView: 시간, 장소 제약 없는 비대면 창구 서비스</a><br>
+  - 💵 <a href="https://github.com/Do-Farming">Do-Farming: 미션을 통해 이율 경쟁하는 생활 금융 서비스</a><br>
+</p>
+
+<br>
+<h2>🙇🏻‍♂️ 이력</h2>
+<p>
+  - 🏫 명지대학교 컴퓨터공학과 2019.03~2024.02<br>
+  - 🏦 하나금융그룹 디지털하나로 과정 2024.01~2024.07
 </p>
 
 
-<div display="flex" flex-direction="row">
-  <img src="https://github-readme-stats.vercel.app/api?username=rabbitate&&show_icons=true" width="55%" height="230px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbitate&layout=compact&langs_count=10" width="43%" height="230px"/>
-</div>
+<br>
+<h2>🏆 수상</h2>
+<p>
+  - 명지대학교 공과대학 요소설계공모전 우수상 2019.12
+</p>
 
-<h2>Contact</h2>
+<br>
+<h2>연락처</h2>
 <p align="left">
   <!--<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fksone02&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />  -->
   <a href="https://www.instagram.com/rabb2tate/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ksone02"/></a>
