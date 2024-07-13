@@ -8,6 +8,9 @@
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
 </p>
+
+<br>
+<h2>📝 자격증</h2>
 <p>
   <img src="https://img.shields.io/badge/정보처리기사-8CA1AF?style=flat-square&logo=googleDocs&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLD-8CA1AF?style=flat-square&logo=googleDocs&logoColor=white"/>
@@ -25,7 +28,7 @@
 <h2>🙇🏻‍♂️ 이력</h2>
 <p>
   - 🏫 명지대학교 컴퓨터공학과 2019.03~2024.02<br>
-  - 🏦 하나금융그룹 디지털하나로 과정 2024.01~2024.07
+  - 🏦 하나금융그룹 Digital Hana 路 2기 2024.01~2024.07
 </p>
 
 
